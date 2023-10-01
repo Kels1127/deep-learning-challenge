@@ -19,4 +19,4 @@ Module 21 Challenge
 
 ##  Summary
 
-In summary, while it did take more than one attempt, by implementing additional layers as well as increasing the number of neurons...target model performance was achieved! Training and testing on different epoch level resulted in reducing the bias and helped the model perform with better accuracy. Binning of all the classification values also improved the accuracy results.
+In summary, while it did take more than one attempt, by implementing additional layers as well as increasing the number of neurons...target model performance was achieved! Training and testing on different epoch level resulted in reducing the bias and helped the model perform with better accuracy. Binning of all the classification values also improved the accuracy results. I think a different approach to classification, such as Random Forest, could capture more complex data interactions and thus improve the model's performance.
